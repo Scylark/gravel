@@ -330,7 +330,7 @@ const RESUME_DATA = {
                     <div class="role-header">
                         <div class="role-badge" style="background: #2e4a30">Gravel</div>
                     </div>
-                    <h2>The gravel season, front and centre</h2>
+                    <h2>Gravel, front and centre</h2>
                     <p class="role-context">Gravel has run through the last three seasons of my work, first at a component manufacturer and then at a bike brand. At Classified in 2024 the factory team sat in my remit, with Piotr Havik taking 4th at Unbound Gravel and Annabel Fisher winning the British National Gravel Championships. At Ribble the Outliers swept all four national titles at the 2026 UK Gravel National Championships, Jenson Young took 2nd at the UCI Gralloch, the team raced The Traka in Girona, and gravel became the fastest-growing category in the range, outperforming the market. I raced the Nationals too and finished 9th in the 40-44 category, my best national result to date.</p>
 
                     <div class="media-gallery">
