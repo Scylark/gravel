@@ -323,7 +323,7 @@ const RESUME_DATA = {
 
         "gravel-story": {
             title: "Gravel",
-            subtitle: "A season of gravel results and the campaigns built around them",
+            subtitle: "Three seasons of gravel, at a component manufacturer and a bike brand",
             type: "role",
             content: `
                 <div class="role-card">
@@ -331,7 +331,7 @@ const RESUME_DATA = {
                         <div class="role-badge" style="background: #2e4a30">Gravel</div>
                     </div>
                     <h2>The gravel season, front and centre</h2>
-                    <p class="role-context">Two seasons of gravel work at Ribble, on the bike and behind the campaigns. The Ribble Outliers swept all four national titles at the 2026 UK Gravel National Championships, Jenson Young took 2nd at the UCI Gralloch, the team raced The Traka in Girona, and gravel became the fastest-growing category in the range, outperforming the market. I raced the Nationals too and finished 9th in the 40-44 category, my best national result to date.</p>
+                    <p class="role-context">Gravel has run through the last three seasons of my work, first at a component manufacturer and then at a bike brand. At Classified in 2024 the factory team sat in my remit, with Piotr Havik taking 4th at Unbound Gravel and Annabel Fisher winning the British National Gravel Championships. At Ribble the Outliers swept all four national titles at the 2026 UK Gravel National Championships, Jenson Young took 2nd at the UCI Gralloch, the team raced The Traka in Girona, and gravel became the fastest-growing category in the range, outperforming the market. I raced the Nationals too and finished 9th in the 40-44 category, my best national result to date.</p>
 
                     <div class="media-gallery">
                         <h4>Some of the media</h4>
@@ -404,6 +404,15 @@ const RESUME_DATA = {
                             <li><strong>ALLGRIT &amp; ULTRA-GRIT go-to-market</strong> - wrote the GTM strategy for the range and its material variants, Ribble's most successful new product launch, with retail partners, athletes and journalists aligned behind one set of messaging, content and promotional material.</li>
                             <li><strong>Campaigns from race days</strong> - the Nationals film, the Gralloch reel and the Traka film all became content across owned and earned channels.</li>
                             <li><strong>Skin in the game</strong> - I race what I market, 9th in the 40-44 at the 2026 Nationals.</li>
+                        </ul>
+                    </div>
+
+                    <div class="achievements">
+                        <h4>Before Ribble - the Classified gravel programme, 2024</h4>
+                        <ul>
+                            <li><strong>Piotr Havik, 4th at Unbound Gravel</strong> - 200 miles of Kansas gravel and the biggest race in the sport, riding for the Classified Ridley Factory Team.</li>
+                            <li><strong>Annabel Fisher, British National Gravel Champion</strong> - the 2024 title, taken in south-west Scotland on the same factory team.</li>
+                            <li><strong>How it ran</strong> - I led the marketing team with a pro sports manager running the gravel programme into me, so race results fed the launch calendar and the PR plan for a drivetrain whose whole argument is gravel terrain.</li>
                         </ul>
                     </div>
                 </div>
@@ -817,6 +826,7 @@ const RESUME_DATA = {
                             <li><strong>Brand & product positioning</strong> - led the research, validation, and integration of brand and product positions.</li>
                             <li><strong>160+ media placements</strong> - spearheaded global product launches, including the Vistar // Powershift drivetrain at Eurobike.</li>
                             <li><strong>Global events</strong> - managed Eurobike, Sea Otter, and Taichung Bike Week to strengthen partnerships and drive growth.</li>
+                            <li><strong>Gravel factory team</strong> - the Classified Ridley Factory Team sat in my remit, with a pro sports manager running it into me. Piotr Havik finished 4th at Unbound Gravel and Annabel Fisher won the British National Gravel Championships, both in 2024.</li>
                             <li><strong>AI/ML adoption</strong> - led adoption of AI and machine learning across departments.</li>
                             <li><strong>Team leadership</strong> - led the marketing team and agencies to deliver cohesive digital, PR, and social campaigns.</li>
                             <li><strong>IBD & distributor support</strong> - enhanced education and process for IBDs and distributors.</li>
