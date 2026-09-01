@@ -357,6 +357,45 @@ const RESUME_DATA = {
                         </div>
                     </div>
 
+                    <div class="media-gallery">
+                        <h4>ALLGRIT & ULTRA-GRIT Launch 2025</h4>
+                        <p class="gallery-description" style="font-size: 12px; color: var(--text-secondary); line-height: 1.5; margin-bottom: 10px;">Ribble completely relaunched its gravel range in 2025 with the ALLGRIT and ULTRA-GRIT. The campaign landed distinct positioning for both bikes - race performance for the ULTRA-GRIT, adventure versatility for the ALLGRIT - targeting two clearly defined rider profiles.</p>
+                        <div class="gallery-grid">
+                            <div class="gallery-item" data-type="video" data-src="assets/Ribble 2025 ALLGRIT and ULTRA-GRIT launch/All-Grit Range 40s 16-9.mp4">
+                                <video src="assets/Ribble 2025 ALLGRIT and ULTRA-GRIT launch/All-Grit Range 40s 16-9.mp4" muted preload="metadata" poster="assets/thumbs/allgrit-range.jpg"></video>
+                                <div class="gallery-play"></div>
+                                <div class="gallery-label">ALL-GRIT Range Film</div>
+                            </div>
+                            <div class="gallery-item" data-type="image" data-src="assets/Ribble 2025 ALLGRIT and ULTRA-GRIT launch/0002_ADVENTURE-VERSATILITY.webp">
+                                <img src="assets/Ribble 2025 ALLGRIT and ULTRA-GRIT launch/0002_ADVENTURE-VERSATILITY.webp" alt="ALLGRIT Adventure" loading="lazy" decoding="async">
+                            </div>
+                            <div class="gallery-item" data-type="image" data-src="assets/Ribble 2025 ALLGRIT and ULTRA-GRIT launch/0011_Composed_handling.webp">
+                                <img src="assets/Ribble 2025 ALLGRIT and ULTRA-GRIT launch/0011_Composed_handling.webp" alt="ALLGRIT Handling" loading="lazy" decoding="async">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="media-gallery">
+                        <h4>British Gravel National Championships 2025</h4>
+                        <p class="gallery-description" style="font-size: 12px; color: var(--text-secondary); line-height: 1.5; margin-bottom: 10px;">Our biggest event activation of 2025. We took full ownership of the site including the start and finish lines, gantries, entry, scrimmage, barriers, and flags, alongside a large stretch fabric tent in the centre of the event village. Partners were on-site and the Ribble Outliers warmed up in the fan zone.</p>
+                        <div class="gallery-grid">
+                            <div class="gallery-item" data-type="video" data-src="assets/Ribble Gravel National Champinships Sponsorship 2025/Weekend Highlights Widescreen V2.mp4">
+                                <video src="assets/Ribble Gravel National Champinships Sponsorship 2025/Weekend Highlights Widescreen V2.mp4" muted preload="metadata" poster="assets/thumbs/gravel-nationals.jpg"></video>
+                                <div class="gallery-play"></div>
+                                <div class="gallery-label">Weekend Highlights</div>
+                            </div>
+                            <div class="gallery-item" data-type="image" data-src="assets/Ribble Gravel National Champinships Sponsorship 2025/0Q5A9898.jpg">
+                                <img src="assets/Ribble Gravel National Champinships Sponsorship 2025/0Q5A9898.jpg" alt="Gravel Nationals" loading="lazy" decoding="async">
+                            </div>
+                            <div class="gallery-item" data-type="image" data-src="assets/Ribble Gravel National Champinships Sponsorship 2025/0Q5A9331.jpg">
+                                <img src="assets/Ribble Gravel National Champinships Sponsorship 2025/0Q5A9331.jpg" alt="Gravel Nationals" loading="lazy" decoding="async">
+                            </div>
+                            <div class="gallery-item" data-type="image" data-src="assets/Ribble Gravel National Champinships Sponsorship 2025/_DSC0976.jpg">
+                                <img src="assets/Ribble Gravel National Champinships Sponsorship 2025/_DSC0976.jpg" alt="Gravel Nationals" loading="lazy" decoding="async">
+                            </div>
+                        </div>
+                    </div>
+
                     <div class="achievements">
                         <h4>Behind the results</h4>
                         <ul>
