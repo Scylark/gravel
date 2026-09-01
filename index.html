@@ -22,61 +22,64 @@
     button.gravel-banner.nav-btn:hover,
     button.gravel-banner.nav-btn.active {
         position: absolute;
-        top: 18px;
+        top: 16px;
         left: 50%;
         transform: translateX(-50%);
         z-index: 30;
         display: flex;
         align-items: center;
-        gap: 18px;
-        width: auto;
-        padding: 16px 24px;
+        gap: 16px;
+        width: max-content;
+        max-width: min(94%, 860px);
+        padding: 12px 20px;
         background: var(--bg-card);
         border: 1px solid var(--border);
         border-left: 4px solid #059669;
-        border-radius: 14px;
-        box-shadow: 0 8px 30px rgba(29, 29, 31, 0.10);
+        border-radius: 12px;
+        box-shadow: 0 6px 24px rgba(29, 29, 31, 0.10);
         cursor: pointer;
-        max-width: min(92%, 780px);
         text-align: left;
         color: var(--text);
         transition: transform 0.2s ease, box-shadow 0.2s ease;
     }
     button.gravel-banner.nav-btn:hover {
         transform: translateX(-50%) translateY(-2px);
-        box-shadow: 0 14px 40px rgba(29, 29, 31, 0.16);
+        box-shadow: 0 12px 32px rgba(29, 29, 31, 0.15);
     }
     .gravel-banner .gb-titles {
-        font-size: 28px;
+        font-size: 19px;
         font-weight: 700;
-        letter-spacing: -0.02em;
+        letter-spacing: -0.01em;
         color: var(--text);
-        line-height: 1.05;
+        line-height: 1.1;
         white-space: nowrap;
+        flex-shrink: 0;
     }
     .gravel-banner .gb-titles span { color: #059669; }
     .gravel-banner .gb-sub {
+        flex: 1 1 auto;
+        min-width: 0;
         font-size: 12.5px;
-        line-height: 1.55;
+        line-height: 1.45;
         color: var(--text-secondary);
-        border-left: 1px solid var(--border-light);
-        padding-left: 18px;
     }
     .gravel-banner .gb-cta {
         font-size: 12.5px;
         font-weight: 600;
         color: #059669;
         white-space: nowrap;
+        flex-shrink: 0;
     }
     .gravel-banner:hover .gb-cta { text-decoration: underline; text-underline-offset: 3px; }
     @media (max-width: 900px) {
         button.gravel-banner.nav-btn,
         button.gravel-banner.nav-btn:hover,
         button.gravel-banner.nav-btn.active {
-            flex-direction: column; gap: 8px; text-align: center; padding: 14px 18px; top: 12px;
+            flex-direction: column; gap: 6px; text-align: center;
+            padding: 10px 16px; top: 10px; width: auto;
         }
-        .gravel-banner .gb-titles { font-size: 21px; white-space: normal; }
-        .gravel-banner .gb-sub { border-left: none; padding-left: 0; }
+        .gravel-banner .gb-titles { font-size: 16px; }
+        .gravel-banner .gb-sub { font-size: 11.5px; }
     }
     .sidebar-stats { margin: 2px 0 4px; }
     .sidebar-stats .ss-item {
@@ -155,9 +158,9 @@
 
     <!-- Main Canvas Area -->
     <main class="canvas-area" id="canvasArea">
-        <button class="gravel-banner nav-btn" data-target="gravel-story" aria-label="Open gravel highlights">
+        <button class="gravel-banner nav-btn" data-target="gravel-story" aria-label="Open the gravel story">
             <span class="gb-titles">THE GRAVEL <span>STORY</span></span>
-            <span class="gb-sub">Four national titles at the 2026 Championships. 2nd at the UCI Gralloch. The Traka, Girona. Ribble's most successful bike launch. The fastest-growing category in the range.</span>
+            <span class="gb-sub">Four national titles at the 2026 Nationals, 2nd at the UCI Gralloch, The Traka, and Ribble's most successful bike launch.</span>
             <span class="gb-cta">Open the story &rarr;</span>
         </button>
         <canvas id="graphCanvas"></canvas>
