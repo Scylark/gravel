@@ -334,7 +334,7 @@ const RESUME_DATA = {
                     <p class="role-context">Two seasons of gravel work at Ribble, on the bike and behind the campaigns. The Ribble Outliers swept all four national titles at the 2026 UK Gravel National Championships, Jenson Young took 2nd at the UCI Gralloch, the team raced The Traka in Girona, and gravel became the fastest-growing category in the range, outperforming the market. I raced the Nationals too and finished 9th in the 40-44 category, my best national result to date.</p>
 
                     <div class="media-gallery">
-                        <h4>The films</h4>
+                        <h4>Some of the media</h4>
                         <div class="gallery-grid">
                             <div class="gallery-item" data-type="video" data-src="assets/Ribble Gravel Nationals 2026 - Four Titles/Ribble Outliers Nationals Film.mp4">
                                 <video src="assets/Ribble Gravel Nationals 2026 - Four Titles/Ribble Outliers Nationals Film.mp4" muted preload="metadata" poster="assets/Ribble Gravel Nationals 2026 - Four Titles/Nationals Film Poster.jpg"></video>
