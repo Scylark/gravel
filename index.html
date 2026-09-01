@@ -8,6 +8,61 @@
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="ipod.css">
     <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+    /* Gravel highlight banner (this variant only) */
+    .gravel-banner {
+        position: absolute;
+        top: 18px;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 30;
+        display: flex;
+        align-items: center;
+        gap: 18px;
+        padding: 14px 26px;
+        background: linear-gradient(135deg, #101c12 0%, #1e3323 60%, #2e4a30 100%);
+        border: 1px solid rgba(212, 175, 92, 0.45);
+        border-radius: 14px;
+        box-shadow: 0 10px 40px rgba(16, 28, 18, 0.35);
+        cursor: pointer;
+        max-width: min(92%, 780px);
+        text-align: left;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .gravel-banner:hover {
+        transform: translateX(-50%) translateY(-2px);
+        box-shadow: 0 16px 50px rgba(16, 28, 18, 0.45);
+    }
+    .gravel-banner .gb-titles {
+        font-size: 30px;
+        font-weight: 800;
+        letter-spacing: -0.01em;
+        color: #f3e9d2;
+        line-height: 1.05;
+        white-space: nowrap;
+    }
+    .gravel-banner .gb-titles span { color: #d4af5c; }
+    .gravel-banner .gb-sub {
+        font-size: 12.5px;
+        line-height: 1.55;
+        color: rgba(243, 233, 210, 0.85);
+        border-left: 1px solid rgba(212, 175, 92, 0.4);
+        padding-left: 18px;
+    }
+    .gravel-banner .gb-cta {
+        font-size: 12px;
+        font-weight: 700;
+        color: #d4af5c;
+        white-space: nowrap;
+        animation: gb-pulse 2.6s ease-in-out infinite;
+    }
+    @keyframes gb-pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.55; } }
+    @media (max-width: 900px) {
+        .gravel-banner { flex-direction: column; gap: 8px; text-align: center; padding: 12px 18px; top: 12px; }
+        .gravel-banner .gb-titles { font-size: 22px; white-space: normal; }
+        .gravel-banner .gb-sub { border-left: none; padding-left: 0; }
+    }
+    </style>
 </head>
 <body>
     <!-- Sidebar Navigation -->
@@ -60,6 +115,11 @@
 
     <!-- Main Canvas Area -->
     <main class="canvas-area" id="canvasArea">
+        <button class="gravel-banner nav-btn" data-target="gravel-story" aria-label="Open gravel highlights">
+            <span class="gb-titles">FOUR <span>NATIONAL TITLES</span></span>
+            <span class="gb-sub">The Ribble Outliers swept the 2026 UK Gravel National Championships. 2nd at the UCI Gralloch. The Traka, Girona. Gravel, the fastest-growing category in the range.</span>
+            <span class="gb-cta">Watch the story &rarr;</span>
+        </button>
         <canvas id="graphCanvas"></canvas>
         <div class="nodes-container" id="nodesContainer"></div>
     </main>

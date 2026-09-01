@@ -321,6 +321,55 @@ const RESUME_DATA = {
             `
         },
 
+        "gravel-story": {
+            title: "Gravel",
+            subtitle: "A season of gravel results and the campaigns built around them",
+            type: "role",
+            content: `
+                <div class="role-card">
+                    <div class="role-header">
+                        <div class="role-badge" style="background: #2e4a30">Gravel</div>
+                    </div>
+                    <h2>The gravel season, front and centre</h2>
+                    <p class="role-context">Two seasons of gravel work at Ribble, on the bike and behind the campaigns. The Ribble Outliers swept all four national titles at the 2026 UK Gravel National Championships, Jenson Young took 2nd at the UCI Gralloch, the team raced The Traka in Girona, and gravel became the fastest-growing category in the range, outperforming the market. I raced the Nationals too and finished 9th in the 40-44 category, my best national result to date.</p>
+
+                    <div class="media-gallery">
+                        <h4>The films</h4>
+                        <div class="gallery-grid">
+                            <div class="gallery-item" data-type="video" data-src="assets/Ribble Gravel Nationals 2026 - Four Titles/Ribble Outliers Nationals Film.mp4">
+                                <video src="assets/Ribble Gravel Nationals 2026 - Four Titles/Ribble Outliers Nationals Film.mp4" muted preload="metadata" poster="assets/Ribble Gravel Nationals 2026 - Four Titles/Nationals Film Poster.jpg"></video>
+                                <div class="gallery-play"></div>
+                                <div class="gallery-label">The Nationals Film - Four Titles</div>
+                            </div>
+                            <div class="gallery-item" data-type="video" data-src="assets/Ribble Gralloch 2026 - Jenson Young 2nd Place/Jenson Young Gralloch 2026.mp4">
+                                <video src="assets/Ribble Gralloch 2026 - Jenson Young 2nd Place/Jenson Young Gralloch 2026.mp4" muted preload="metadata" poster="assets/thumbs/gralloch-jenson.jpg"></video>
+                                <div class="gallery-play"></div>
+                                <div class="gallery-label">UCI Gralloch - Jenson Young, 2nd</div>
+                            </div>
+                            <div class="gallery-item" data-type="video" data-src="assets/Ribble Outliers Traka 2026/Ribble Outliers Traka 2026.mp4">
+                                <video src="assets/Ribble Outliers Traka 2026/Ribble Outliers Traka 2026.mp4" muted preload="metadata" poster="assets/thumbs/outliers-traka.jpg"></video>
+                                <div class="gallery-play"></div>
+                                <div class="gallery-label">The Traka, Girona</div>
+                            </div>
+                            <div class="gallery-item" data-type="image" data-src="assets/Ribble Gravel Nationals 2026 - Four Titles/4SC.RIBBLE.NATCHAMP.-209.jpg">
+                                <img src="assets/Ribble Gravel Nationals 2026 - Four Titles/4SC.RIBBLE.NATCHAMP.-209.jpg" alt="2026 UK Gravel National Championships" loading="lazy" decoding="async">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="achievements">
+                        <h4>Behind the results</h4>
+                        <ul>
+                            <li><strong>Presenting Partner</strong> - British Gravel National Championships, with digital and physical rights negotiated, planned and executed.</li>
+                            <li><strong>Category growth</strong> - gravel is the fastest-growing segment in the range, outperforming the market by 2 percentage points and taking competitor share.</li>
+                            <li><strong>Campaigns from race days</strong> - the Nationals film, the Gralloch reel and the Traka film all became content across owned and earned channels.</li>
+                            <li><strong>Skin in the game</strong> - I race what I market, 9th in the 40-44 at the 2026 Nationals.</li>
+                        </ul>
+                    </div>
+                </div>
+            `
+        },
+
         "ribble-2": {
             title: "Ribble Cycles",
             subtitle: "Marketing Consultant · Nov 2024 – Present",
