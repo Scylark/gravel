@@ -388,6 +388,14 @@ const RESUME_DATA = {
                     <p class="role-context">Brought in on a 5-day contractor role under PE ownership by SMT. Delivered objectives and now transitioned to a 3-day advisory role in Feb 2026.</p>
                     <p class="role-context" style="margin-top: 6px;">Budget responsibility for all marketing activities. £1.2M, landed 2024/2025 under budget at £920K.</p>
 
+
+                    <div class="skill-tags" style="margin: 10px 0 4px;">
+                        <span class="skill-tag">4 national titles — 2026 Gravel Nats</span>
+                        <span class="skill-tag">2nd — UCI Gralloch</span>
+                        <span class="skill-tag">Coverage 135 → 196 articles</span>
+                        <span class="skill-tag">Audience 117M → 327M</span>
+                        <span class="skill-tag">£1.2M budget, landed £920K</span>
+                    </div>
                     <div class="achievements">
                         <h4>Leadership</h4>
                         <ul>
@@ -491,48 +499,6 @@ const RESUME_DATA = {
                     </div>
 
                     <div class="media-gallery">
-                        <h4>2026 Team Launch</h4>
-                        <p class="gallery-description" style="font-size: 12px; color: var(--text-secondary); line-height: 1.5; margin-bottom: 10px;">2026 saw the return of the Ribble Outliers and the return of our launch party at the headquarters of our owners. A key opportunity for partner brands to brief the athletes on their messaging and for sponsors to align on product and marketing partnerships.</p>
-                        <div class="gallery-grid">
-                            <div class="gallery-item" data-type="video" data-src="assets/Ribble 2026 Team Launch/RO 16x9 V2.mp4">
-                                <video src="assets/Ribble 2026 Team Launch/RO 16x9 V2.mp4" muted preload="metadata" poster="assets/thumbs/ribble-team-launch.jpg"></video>
-                                <div class="gallery-play"></div>
-                                <div class="gallery-label">Team Launch Film</div>
-                            </div>
-                            <div class="gallery-item" data-type="image" data-src="assets/Ribble 2026 Team Launch/0Q5A8854.jpg">
-                                <img src="assets/Ribble 2026 Team Launch/0Q5A8854.jpg" alt="Team Launch" loading="lazy" decoding="async">
-                            </div>
-                            <div class="gallery-item" data-type="image" data-src="assets/Ribble 2026 Team Launch/0Q5A8746.jpg">
-                                <img src="assets/Ribble 2026 Team Launch/0Q5A8746.jpg" alt="Team Launch" loading="lazy" decoding="async">
-                            </div>
-                            <div class="gallery-item" data-type="image" data-src="assets/Ribble 2026 Team Launch/0Q5A8793.jpg">
-                                <img src="assets/Ribble 2026 Team Launch/0Q5A8793.jpg" alt="Team Launch" loading="lazy" decoding="async">
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="media-gallery">
-                        <h4>British Gravel National Championships 2025</h4>
-                        <p class="gallery-description" style="font-size: 12px; color: var(--text-secondary); line-height: 1.5; margin-bottom: 10px;">Our biggest event activation of 2025. We took full ownership of the site including the start and finish lines, gantries, entry, scrimmage, barriers, and flags, alongside a large stretch fabric tent in the centre of the event village. Partners were on-site and the Ribble Outliers warmed up in the fan zone.</p>
-                        <div class="gallery-grid">
-                            <div class="gallery-item" data-type="video" data-src="assets/Ribble Gravel National Champinships Sponsorship 2025/Weekend Highlights Widescreen V2.mp4">
-                                <video src="assets/Ribble Gravel National Champinships Sponsorship 2025/Weekend Highlights Widescreen V2.mp4" muted preload="metadata" poster="assets/thumbs/gravel-nationals.jpg"></video>
-                                <div class="gallery-play"></div>
-                                <div class="gallery-label">Weekend Highlights</div>
-                            </div>
-                            <div class="gallery-item" data-type="image" data-src="assets/Ribble Gravel National Champinships Sponsorship 2025/0Q5A9898.jpg">
-                                <img src="assets/Ribble Gravel National Champinships Sponsorship 2025/0Q5A9898.jpg" alt="Gravel Nationals" loading="lazy" decoding="async">
-                            </div>
-                            <div class="gallery-item" data-type="image" data-src="assets/Ribble Gravel National Champinships Sponsorship 2025/0Q5A9331.jpg">
-                                <img src="assets/Ribble Gravel National Champinships Sponsorship 2025/0Q5A9331.jpg" alt="Gravel Nationals" loading="lazy" decoding="async">
-                            </div>
-                            <div class="gallery-item" data-type="image" data-src="assets/Ribble Gravel National Champinships Sponsorship 2025/_DSC0976.jpg">
-                                <img src="assets/Ribble Gravel National Champinships Sponsorship 2025/_DSC0976.jpg" alt="Gravel Nationals" loading="lazy" decoding="async">
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="media-gallery">
                         <h4>UCI Gralloch 2026 - Jenson Young 2nd Place</h4>
                         <p class="gallery-description" style="font-size: 12px; color: var(--text-secondary); line-height: 1.5; margin-bottom: 10px;">Jenson Young of the Ribble Outliers took second at the UCI Gralloch in May 2026, a marquee result in one of the UK's most-watched gravel races and a clear proof point for the Outliers programme on the racing side as well as in the brand and comms work it generates.</p>
                         <div class="gallery-grid">
@@ -573,6 +539,48 @@ const RESUME_DATA = {
                             </div>
                             <div class="gallery-item" data-type="image" data-src="assets/Ribble Outliers Traka 2026/Traka - Sophie 2.jpg">
                                 <img src="assets/Ribble Outliers Traka 2026/Traka - Sophie 2.jpg" alt="Ribble Outliers Traka - Sophie" loading="lazy" decoding="async">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="media-gallery">
+                        <h4>British Gravel National Championships 2025</h4>
+                        <p class="gallery-description" style="font-size: 12px; color: var(--text-secondary); line-height: 1.5; margin-bottom: 10px;">Our biggest event activation of 2025. We took full ownership of the site including the start and finish lines, gantries, entry, scrimmage, barriers, and flags, alongside a large stretch fabric tent in the centre of the event village. Partners were on-site and the Ribble Outliers warmed up in the fan zone.</p>
+                        <div class="gallery-grid">
+                            <div class="gallery-item" data-type="video" data-src="assets/Ribble Gravel National Champinships Sponsorship 2025/Weekend Highlights Widescreen V2.mp4">
+                                <video src="assets/Ribble Gravel National Champinships Sponsorship 2025/Weekend Highlights Widescreen V2.mp4" muted preload="metadata" poster="assets/thumbs/gravel-nationals.jpg"></video>
+                                <div class="gallery-play"></div>
+                                <div class="gallery-label">Weekend Highlights</div>
+                            </div>
+                            <div class="gallery-item" data-type="image" data-src="assets/Ribble Gravel National Champinships Sponsorship 2025/0Q5A9898.jpg">
+                                <img src="assets/Ribble Gravel National Champinships Sponsorship 2025/0Q5A9898.jpg" alt="Gravel Nationals" loading="lazy" decoding="async">
+                            </div>
+                            <div class="gallery-item" data-type="image" data-src="assets/Ribble Gravel National Champinships Sponsorship 2025/0Q5A9331.jpg">
+                                <img src="assets/Ribble Gravel National Champinships Sponsorship 2025/0Q5A9331.jpg" alt="Gravel Nationals" loading="lazy" decoding="async">
+                            </div>
+                            <div class="gallery-item" data-type="image" data-src="assets/Ribble Gravel National Champinships Sponsorship 2025/_DSC0976.jpg">
+                                <img src="assets/Ribble Gravel National Champinships Sponsorship 2025/_DSC0976.jpg" alt="Gravel Nationals" loading="lazy" decoding="async">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="media-gallery">
+                        <h4>2026 Team Launch</h4>
+                        <p class="gallery-description" style="font-size: 12px; color: var(--text-secondary); line-height: 1.5; margin-bottom: 10px;">2026 saw the return of the Ribble Outliers and the return of our launch party at the headquarters of our owners. A key opportunity for partner brands to brief the athletes on their messaging and for sponsors to align on product and marketing partnerships.</p>
+                        <div class="gallery-grid">
+                            <div class="gallery-item" data-type="video" data-src="assets/Ribble 2026 Team Launch/RO 16x9 V2.mp4">
+                                <video src="assets/Ribble 2026 Team Launch/RO 16x9 V2.mp4" muted preload="metadata" poster="assets/thumbs/ribble-team-launch.jpg"></video>
+                                <div class="gallery-play"></div>
+                                <div class="gallery-label">Team Launch Film</div>
+                            </div>
+                            <div class="gallery-item" data-type="image" data-src="assets/Ribble 2026 Team Launch/0Q5A8854.jpg">
+                                <img src="assets/Ribble 2026 Team Launch/0Q5A8854.jpg" alt="Team Launch" loading="lazy" decoding="async">
+                            </div>
+                            <div class="gallery-item" data-type="image" data-src="assets/Ribble 2026 Team Launch/0Q5A8746.jpg">
+                                <img src="assets/Ribble 2026 Team Launch/0Q5A8746.jpg" alt="Team Launch" loading="lazy" decoding="async">
+                            </div>
+                            <div class="gallery-item" data-type="image" data-src="assets/Ribble 2026 Team Launch/0Q5A8793.jpg">
+                                <img src="assets/Ribble 2026 Team Launch/0Q5A8793.jpg" alt="Team Launch" loading="lazy" decoding="async">
                             </div>
                         </div>
                     </div>

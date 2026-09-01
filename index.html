@@ -3,6 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="James Vickers, senior marketing leader in cycling and endurance sport. Four national titles with the Ribble Outliers at the 2026 UK Gravel National Championships, 2nd at the UCI Gralloch, The Traka, and the campaigns built around them.">
+    <meta property="og:title" content="James Vickers — Interactive Resume">
+    <meta property="og:description" content="Four national titles with the Ribble Outliers in 2026. The gravel campaigns, films and results, one click deep.">
+    <meta property="og:image" content="https://scylark.github.io/gravel/assets/Ribble%20Gravel%20Nationals%202026%20-%20Four%20Titles/4SC.RIBBLE.NATCHAMP.-209.jpg">
+    <meta property="og:url" content="https://scylark.github.io/gravel/">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231d1d1f'/%3E%3Ctext x='32' y='44' font-family='Helvetica,Arial,sans-serif' font-size='28' font-weight='bold' fill='%23ffffff' text-anchor='middle'%3EJV%3C/text%3E%3C/svg%3E">
     <title>James Vickers MCIM MCPR — Interactive Resume</title>
     <!-- Using system fonts: Helvetica Neue, Helvetica, Arial -->
     <link rel="stylesheet" href="styles.css">
@@ -70,6 +78,24 @@
         .gravel-banner .gb-titles { font-size: 21px; white-space: normal; }
         .gravel-banner .gb-sub { border-left: none; padding-left: 0; }
     }
+    .sidebar-stats { margin: 2px 0 4px; }
+    .sidebar-stats .ss-item {
+        font-size: 11.5px;
+        line-height: 1.5;
+        color: var(--text-secondary);
+        padding: 5px 0 5px 10px;
+        border-left: 2px solid #059669;
+        margin-bottom: 6px;
+    }
+    .sidebar-stats .ss-item strong { color: var(--text); font-weight: 650; }
+    .sidebar-email {
+        display: block;
+        margin-top: 8px;
+        font-size: 12px;
+        color: var(--accent);
+        text-decoration: none;
+    }
+    .sidebar-email:hover { text-decoration: underline; }
     </style>
 </head>
 <body>
@@ -80,7 +106,12 @@
             <h1 class="sidebar-name">James Vickers</h1>
             <span class="sidebar-credentials">MCIM · MCPR</span>
         </div>
-        <p class="sidebar-tagline">Senior Marketing Professional driving growth through high-impact strategy across cycling, fitness tech & fintech.</p>
+        <p class="sidebar-tagline">Senior marketing leader across cycling and endurance sport. I race what I market.</p>
+        <div class="sidebar-stats">
+            <div class="ss-item"><strong>4 national titles</strong> — Ribble Outliers, 2026 Gravel Nationals</div>
+            <div class="ss-item"><strong>2nd, UCI Gralloch</strong> — with the campaign built around it</div>
+            <div class="ss-item"><strong>Fastest-growing category</strong> — gravel, outperforming the market</div>
+        </div>
         <div class="sidebar-divider"></div>
         <ul class="sidebar-nav">
             <li><button class="nav-btn" data-target="experience"><span class="nav-icon"><svg width="14" height="14" viewBox="0 0 14 18"><polygon points="7,1 13,9 7,17 1,9" fill="none" stroke="currentColor" stroke-width="1.5"/></svg></span> Experience <span class="nav-arrow">→</span></button></li>
@@ -101,6 +132,7 @@
                 <span class="location-dot"></span>
                 Sheffield / Lincoln, UK
             </div>
+            <a class="sidebar-email" href="mailto:james@manual-focus.co.uk">james@manual-focus.co.uk</a>
         </div>
     </nav>
 
