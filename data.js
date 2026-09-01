@@ -362,6 +362,7 @@ const RESUME_DATA = {
                         <ul>
                             <li><strong>Presenting Partner</strong> - British Gravel National Championships, with digital and physical rights negotiated, planned and executed.</li>
                             <li><strong>Category growth</strong> - gravel is the fastest-growing segment in the range, outperforming the market by 2 percentage points and taking competitor share.</li>
+                            <li><strong>ALLGRIT &amp; ULTRA-GRIT go-to-market</strong> - wrote the GTM strategy for the range and its material variants, Ribble's most successful new product launch, with retail partners, athletes and journalists aligned behind one set of messaging, content and promotional material.</li>
                             <li><strong>Campaigns from race days</strong> - the Nationals film, the Gralloch reel and the Traka film all became content across owned and earned channels.</li>
                             <li><strong>Skin in the game</strong> - I race what I market, 9th in the 40-44 at the 2026 Nationals.</li>
                         </ul>
@@ -441,6 +442,7 @@ const RESUME_DATA = {
                     <div class="achievements">
                         <h4>Brand & Strategy</h4>
                         <ul>
+                            <li><strong>ALLGRIT &amp; ULTRA-GRIT go-to-market</strong> - wrote the GTM strategy for the range and its material variants, Ribble's most successful new product launch, with retail partners, athletes and journalists aligned behind one set of messaging, content and promotional material.</li>
                             <li><strong>The Original Outliers rebrand</strong> - worked with FreshBritain on repositioning Ribble's tone of voice and visual language.</li>
                             <li><strong>2025 strategic objectives</strong> - grow gravel market share, increase regional penetration (North East and South), launch four new bikes.</li>
                             <li><strong>Led NPD marketing</strong> - market gap analysis, sign-off documents, and GTM strategies covering positioning, messaging, and channels.</li>
